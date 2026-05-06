@@ -143,6 +143,10 @@ Export reports (PDF/Excel)
 
 Kartik Palav
 
+<img width="1439" height="526" alt="image" src="https://github.com/user-attachments/assets/0971ce1b-f077-4298-9365-0150c4a1319e" />
+<img width="1291" height="850" alt="image" src="https://github.com/user-attachments/assets/57da1de3-7b95-4825-8982-3eb8fb025d2a" />
+
+
 
 ⭐ If you like this project
 
